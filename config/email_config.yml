@@ -1,0 +1,12 @@
+# config/email_config.yml
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+smtp_username: "jugheadjones03112000@gmail.com"
+smtp_password: "seit ired fhnh ksmj"
+from_address: "jugheadjones03112000@gmail.com"
+use_tls: true
+
+# default recipients (used by the UI as suggestion)
+default_recipients:
+  - "Jayant.Sharma@Ltts.com"
+  - "pediredla.sairam@ltts.com"
